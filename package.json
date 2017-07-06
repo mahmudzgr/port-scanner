@@ -1,0 +1,16 @@
+{
+  "name": "port-scanner",
+  "version": "1.0.0",
+  "description": "The program finds open ports of given ip and port range.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "port",
+    "scanner"
+  ],
+  "author": "Mahmud Ozgur",
+  "license": "ISC"
+}
